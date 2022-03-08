@@ -1,0 +1,106 @@
+body{
+    background-image: url(./../../images/pic4.jpg);
+    background-repeat: repeat;
+    text-align: center;
+    align-items: center;
+    font-size: 36;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(19, 17, 18);
+}
+.cover{
+    background-color: grey;
+    max-width: 700px;
+    margin: 150px auto;
+
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(217, 255, 0);
+    font-size: 48;
+    padding-top: 50px;
+}
+h2{
+    color: pink;
+    padding-top: 20px;
+}
+h3{
+    color: rgb(131, 31, 131);
+}
+p{
+    text-align: center;
+    font-size: 24px;
+}
+.login-box{
+    background-color: grey;
+    max-width: 500px;
+    margin: 150px auto;
+
+}
+.register-box{
+    background-color: grey;
+    max-width: 500px;
+    margin: 150px auto;
+}
+.form-control{
+    background-color: white;
+}
+.top_h{
+    background-color: rgb(161, 152, 214);
+    max-width: 1000px;
+    margin: 50px;
+    height: 100px; 
+}
+.welcome_h{
+    background-color: grey;
+    max-width: 1000px;
+    margin:50px auto;
+    height: 1000px auto;
+    max-height: 1000px;
+}
+.middle_h{
+    height:600px auto;
+}
+.efg{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 30px;
+}
+
+.abc{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+a:link {
+    color: red;
+  }
+  
+a:visited {
+    color: rgb(20, 48, 20);
+  }
+  
+a:hover {
+    color: hotpink;
+  }
+  
+a:active {
+    color: blue;
+  }
+.about_p{
+      max-height: fit-content;
+      margin: 20px;
+      background-color: grey;
+  }
+.order_p{
+      background-color: grey;
+      margin: 150px auto;
+      max-width: 900px;
+      max-height: fit-content;
+  }
+.pink{
+    max-height: fit-content;
+    margin: 20px;
+    background-color: grey; 
+}
+   
